@@ -1,4 +1,4 @@
-In this exercise we will practice using GIT.  This will allow everyone to practice the following:
+In this exercise you practice using GIT by working on a website with your team. This is part of the   This will allow everyone to practice the following:
 
 - Cloning a repository
 - Pulling from the main branch
