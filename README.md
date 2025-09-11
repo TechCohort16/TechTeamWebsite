@@ -1,4 +1,4 @@
-In this exercise you practice using GIT by working on a website with your team. This is part of the Git   This will allow everyone to practice the following:
+In this exercise you practice using GIT by working on a website with your team. This will allow everyone to practice the following:
 
 - Cloning a repository
 - Pulling from the main branch
@@ -8,8 +8,13 @@ In this exercise you practice using GIT by working on a website with your team. 
 - Get pull request merged
 - Update your branch with completed project
 
-This is the typical GIT workflow on a project. 
+Make sure to fill out each area of pull request template:
 
-
+- What?
+- Why?
+- How?
+- Testing?
+- Screenshots (optional)
+- Anything Else?
 
 
